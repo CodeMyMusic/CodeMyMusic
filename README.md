@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeMyMusic
 - 👀 I’m interested in creative code, AI and music
-- 🅰️ I’m currently trying out AutoHotKey on Windows
+- 💻🖌️ I’m currently working on a mini drawing app
 
 <!---
 CodeMyMusic/CodeMyMusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

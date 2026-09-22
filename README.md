@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeMyMusic
-- 👀 I’m interested in Full Stack Developpement, Software Engineering, AI and Music
-- 💻🎯 I'm currently solving LeetCode problems while looking for an internship.
+- 👀 I’m interested in coding simple programs or creative ones
+- 👨‍💻 I'm having a lot of fun automating things within Google services lately 😊
 
 <!---
 CodeMyMusic/CodeMyMusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
